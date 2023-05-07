@@ -1,8 +1,10 @@
 
 $\Large\text{\ \color{lightblue}\ Shop}$
-________________________________________________
-$\text{\ \color{lightblue}\   deploy:\}$ [shop.net](https://licettte.github.io/shop/#/)  
 ____
+$\text{\ \color{lightblue}\   deploy:\}$ 
+```
+[shop.net](https://licettte.github.io/shop/#/)  
+```
 
 $\text{\ \color{lightblue}\   Технологии:\}$  
 
