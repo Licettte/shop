@@ -1,10 +1,8 @@
 
 $\Large\text{\ \color{lightblue}\ Shop}$
 
-$\text{\ \color{lightblue}\   deploy:\}$  
-```javaScript
- https://licettte.github.io/shop/#/
-```
+$\text{\ \color{lightblue}\   deploy:\}$   https://licettte.github.io/shop/#/
+
 
 $\text{\ \color{lightblue}\   Технологии:\}$  
 
