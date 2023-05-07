@@ -2,7 +2,7 @@
 $\Large\text{\ \color{lightblue}\ Shop}$
 ____
 $\text{\ \color{lightblue}\   deploy:\}$ 
-```
+
 [shop.net](https://licettte.github.io/shop/#/)  
 ```
 
