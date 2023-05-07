@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.068fd5f0.css",
+    "main.js": "/shop/static/js/main.5e73cc45.js",
+    "static/js/787.aeb3bbbf.chunk.js": "/shop/static/js/787.aeb3bbbf.chunk.js",
+    "static/media/error.gif": "/shop/static/media/error.babbaf30e6e30662ae56.gif",
+    "static/media/vk.svg": "/shop/static/media/vk.35ef382149648a5feab8c3350d602e43.svg",
+    "static/media/whatsApp.svg": "/shop/static/media/whatsApp.502a2934b3fdc3fa525bd7ef5d2d31e3.svg",
+    "static/media/basket.svg": "/shop/static/media/basket.ef8b88fbf58debacce066ef995882733.svg",
+    "static/media/circle.svg": "/shop/static/media/circle.797e781eca4339c28cabcdd5b54c29bb.svg",
+    "static/media/telegram.svg": "/shop/static/media/telegram.6bad4180024aee5bca37cf3a469e6693.svg",
+    "static/media/delete.svg": "/shop/static/media/delete.933d06e4413eb2374bcb7ca489a07d69.svg",
+    "index.html": "/shop/index.html",
+    "static/media/heart.svg": "/shop/static/media/heart.d36759e3212406036559540b18ed0016.svg",
+    "static/media/star.svg": "/shop/static/media/star.106b0f48550c1c8dcdb06568804307aa.svg",
+    "main.068fd5f0.css.map": "/shop/static/css/main.068fd5f0.css.map",
+    "main.5e73cc45.js.map": "/shop/static/js/main.5e73cc45.js.map",
+    "787.aeb3bbbf.chunk.js.map": "/shop/static/js/787.aeb3bbbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068fd5f0.css",
+    "static/js/main.5e73cc45.js"
+  ]
+}
