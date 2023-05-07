@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import { RootState } from '../store/store';
 import { CardState } from '../types';
 
-const _url = 'http://localhost:3001/headphones';
+const _url = 'https://my-json-server.typicode.com/licettte/db.json.server/headphones';
 
 export const fetchProductCards = createAsyncThunk<
     CardState,
