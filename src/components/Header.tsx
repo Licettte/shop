@@ -51,7 +51,7 @@ const BasketImg = styled(Basket)`
 `;
 
 export function Header() {
-    const order = useAppSelector(selectOrder); //извлекаем state из store
+    const order = useAppSelector(selectOrder); 
 
     return (
         <Wrapper>
