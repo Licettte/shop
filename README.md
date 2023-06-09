@@ -18,6 +18,6 @@ $\text{\ \color{lightblue}\   Технологии:\}$
 ```
 $\text{\ \color{lightblue}\  Для запуска:\}$  
 ```javaScript
-1.npm init
+1.npm install
 2.npm start
 ```
