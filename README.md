@@ -21,3 +21,7 @@ $\text{\ \color{lightblue}\  Для запуска:\}$
 1.npm install
 2.npm start
 ```
+![image](https://github.com/Licettte/shop/assets/80988747/864dd1c8-50f2-480f-a790-42d51228dd53)
+
+![image](https://github.com/Licettte/shop/assets/80988747/6d54b62d-c8f1-4d79-8cf9-2cd58e5418fe)
+
